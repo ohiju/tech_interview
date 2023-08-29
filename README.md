@@ -20,6 +20,8 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 ## Database
 
 ## Network
+- [http와 https의 차이](/Network/http_vs_https.md)
+- [OSI 7 계층](/Network/OSI_7layer)
 
 ## Operating System
 
