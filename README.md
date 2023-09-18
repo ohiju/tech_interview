@@ -10,6 +10,7 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 
 
 ## Computer Architecture
+- 0.1 + 1.1 == 1.2 가 틀린 이유는?
 
 ## Data Structure
 - Array
