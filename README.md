@@ -19,6 +19,8 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 - Stack & Queue
 
 ## Database
+- DBMS vs RDBMS
+- SQL Statements
 
 ## Network
 - [http와 https의 차이](/Network/http_vs_https.md)
