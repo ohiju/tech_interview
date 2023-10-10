@@ -52,5 +52,8 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 - REST API
 - Vue.js vs React
 
+### React
+- Component의 생명 주기
+
 ## AI
   
