@@ -49,6 +49,7 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 - Javascript
 
 - Python
+  - arguments vs parameters
 
 ## Web
 - REST API
