@@ -59,7 +59,7 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 - Component의 생명 주기
 
 ### Django
-- CSRF
+- CSRF 공격
 
 ## AI
   
