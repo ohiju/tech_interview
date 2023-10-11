@@ -58,5 +58,8 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 ### React
 - Component의 생명 주기
 
+### Django
+- CSRF
+
 ## AI
   
