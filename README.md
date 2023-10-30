@@ -55,11 +55,11 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 - REST API
 - Vue.js vs React
 - var vs let vs const
-- 함수를 정의하는 5가지 방식
+- [함수를 정의하는 5가지 방식](/Web/function_declare.md)
 
 ### React
 - Component의 생명 주기
-- Hook이란?
+- [Hook이란?](/React/Hooks.md)
 - [React Libraries](/React/libraries.md)
 
 ### Django
