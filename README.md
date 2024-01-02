@@ -56,12 +56,16 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 - Vue.js vs React
 - var vs let vs const
 - [함수를 정의하는 5가지 방식](/Web/function_declare.md)
+- [쿠키 vs 세션](/Web/Cookie_Session.md)
 
 ### React
 - Component의 생명 주기
 - [Hook이란?](/React/Hooks.md)
 - [React Libraries](/React/libraries.md)
 - [JS vs JSX](/React/Js_Jsx.md)
+
+### Vue
+- Navigation Guard
 
 ### Django
 - CSRF 공격
