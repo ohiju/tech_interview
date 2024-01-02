@@ -1,4 +1,8 @@
 # Cookie & Session
+
+### 공통점
+- 웹 통신간 유지하려는 정보를 저장하기 위해 사용
+
 ||Cookie|Session|
 |-----|---|---|
 |저장위치|Client|Server|
