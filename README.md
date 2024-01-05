@@ -5,6 +5,7 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 
 ## Interview  
 - 프로젝트에서 어떤 역할을 맡았고, 어떤 어려움이 있었나요?
+- 가장 기억에 남는 프로젝트는 무엇이고, 이유는 무엇인가요?
 - 팀웍을 할 때 어떤 문제가 발생했고, 이를 어떻게 해결했나요?
 - 우리 회사에서 어떤 일을 하고 싶으신가요?
 
@@ -71,4 +72,3 @@ https://github.com/gyoogle/tech-interview-for-developer/tree/master
 - CSRF 공격
 
 ## AI
-  
